@@ -1,0 +1,8 @@
+strong{
+    color: indianred;
+}
+strong:before{
+    content: '\2663';
+    font-size: larger;
+    padding-right: 5px;
+}

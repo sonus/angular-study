@@ -1,0 +1,8 @@
+strong{
+    color: darkblue;
+}
+strong:before{
+    content: '\2660';
+    font-size: larger;
+    padding-right: 5px;
+}
